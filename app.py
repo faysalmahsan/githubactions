@@ -2,11 +2,9 @@
 
 
 def greetings():
-
-    '''This greets my friends!'''
+    """This greets my friends!"""
 
     print("Good evening my friend!")
 
 
 greetings()
-
