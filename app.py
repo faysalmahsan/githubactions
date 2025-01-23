@@ -1,7 +1,12 @@
-'''This is a greeting function'''
+"""This is a greeting function"""
+
+
 def greetings():
 
-print("good evening my friend!")
+    '''This greets my friends!'''
+
+    print("Good evening my friend!")
 
 
 greetings()
+
